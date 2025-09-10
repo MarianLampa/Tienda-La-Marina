@@ -57,7 +57,7 @@ header {
 }
 
 .menu__item.active a {
-    text-decoration: underline double;
+    text-decoration: none;
 }
 
 .imagenPrincipal {
